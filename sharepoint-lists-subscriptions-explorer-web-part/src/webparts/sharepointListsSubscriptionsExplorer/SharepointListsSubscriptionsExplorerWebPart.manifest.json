@@ -1,0 +1,20 @@
+{
+  "$schema": "../../../node_modules/@microsoft/sp-module-interfaces/lib/manifestSchemas/jsonSchemas/clientSideComponentManifestSchema.json",
+  
+  "id": "357638ec-8ee7-4d94-82a1-09288d103e23",
+  "alias": "SharepointListsSubscriptionsExplorer",
+  "componentType": "WebPart",
+  "version": "1.0.0",
+  "manifestVersion": 2,
+
+  "preconfiguredEntries": [{  
+    "groupId": "357638ec-8ee7-4d94-82a1-09288d103e23",
+    "group": { "default": "Under Development" },
+    "title": { "default": "SharePoint Lists Subscriptions Explorer" },
+    "description": { "default": "SharePoint Lists Subscriptions Explorer web part" },
+    "officeFabricIconFontName": "Page",
+    "properties": {
+      "description": "SharePoint Lists Subscriptions Explorer"
+    }
+  }]
+}

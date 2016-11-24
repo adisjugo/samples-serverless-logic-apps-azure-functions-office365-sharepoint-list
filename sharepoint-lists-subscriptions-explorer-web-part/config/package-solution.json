@@ -1,0 +1,10 @@
+{
+  "solution": {
+    "name": "SharePoint Lists Subscriptions Explorer",
+    "id": "60d3098f-a8dc-4f5a-9414-1a957767c319",
+    "version": "1.0.0.0"
+  },
+  "paths": {
+    "zippedPackage": "solution/sharepoint-lists-subscriptions-explorer.spapp"
+  }
+}

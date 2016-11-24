@@ -1,0 +1,40 @@
+.sharepointListsSubscriptionsExplorer {
+  .container {
+    max-width: 700px;
+    margin: 0px auto;
+    box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.2), 0 25px 50px 0 rgba(0, 0, 0, 0.1);    
+
+    #subscriptions {
+      list-style-type: none;
+      padding-left: 0px;
+      
+      li {
+        margin-top: 20px;
+
+        textarea {
+          width: 100%;
+        } 
+
+        a {
+          min-width: 100px !important;
+          margin-top: 10px;
+        }
+      }
+    }
+    
+    #subscriptionAddContainer {
+      textarea {
+        width: 100%;
+      }
+      
+      a {
+        min-width: 100px !important;
+        margin-top: 10px;
+      }      
+    }
+  }
+
+  .row {
+    padding: 20px;
+  }     
+}

@@ -1,0 +1,7 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "libraryName": "sharepoint-lists-subscriptions-explorer-web-part",
+    "libraryId": "60d3098f-a8dc-4f5a-9414-1a957767c319",
+    "framework": "none"
+  }
+}
