@@ -1,6 +1,6 @@
 {
   "workingDir": "./temp/deploy/",
   "account": "office365apps",
-  "container": "sharepoint-lists-subscriptions-explorer-web-part",
+  "container": "stacked-bar-chart-list-visualizer",
   "accessKey": ""
 }

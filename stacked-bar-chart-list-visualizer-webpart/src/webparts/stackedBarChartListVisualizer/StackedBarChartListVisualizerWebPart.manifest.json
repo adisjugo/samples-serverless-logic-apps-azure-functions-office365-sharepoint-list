@@ -1,0 +1,20 @@
+{
+  "$schema": "../../../node_modules/@microsoft/sp-module-interfaces/lib/manifestSchemas/jsonSchemas/clientSideComponentManifestSchema.json",
+
+  "id": "7bf6b1c5-59e1-41b4-9760-52bb633e96fd",
+  "alias": "StackedBarChartListVisualizerWebPart",
+  "componentType": "WebPart",
+  "version": "0.0.1",
+  "manifestVersion": 2,
+
+  "preconfiguredEntries": [{
+    "groupId": "7bf6b1c5-59e1-41b4-9760-52bb633e96fd",
+    "group": { "default": "Under Development" },
+    "title": { "default": "Stacked Bar Chart" },
+    "description": { "default": "Stacked Bar Chart web part" },
+    "officeFabricIconFontName": "Page",
+    "properties": {
+      "description": "stacked-bar-chart-list-visualizer"
+    }
+  }]
+}

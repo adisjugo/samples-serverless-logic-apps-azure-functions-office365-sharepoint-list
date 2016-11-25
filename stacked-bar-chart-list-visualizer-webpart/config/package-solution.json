@@ -1,0 +1,10 @@
+{
+  "solution": {
+    "name": "Stacked Chart",
+    "id": "2b43bfa6-8e80-4a4f-8f29-eb80ea634224",
+    "version": "1.0.0.0"
+  },
+  "paths": {
+    "zippedPackage": "solution/stacked-bar-chart-list-visualizer.spapp"
+  }
+}
