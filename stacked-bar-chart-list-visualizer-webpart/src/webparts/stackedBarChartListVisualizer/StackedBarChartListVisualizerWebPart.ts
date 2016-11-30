@@ -61,7 +61,7 @@ export default class StackedBarChartListVisualizerWebPart extends BaseClientSide
 
   private _getData(): Promise<ISPListItems> {
     return this.context.httpClient
-      .get(this.context.pageContext.web.absoluteUrl + "/_api/Web/Lists/GetByTitle('Destination%20List%20WebHook')/items?$select=Month,Title,Count")
+      .get(this.context.pageContext.web.absoluteUrl + "/_api/Web/Lists/GetByTitle('Destination%20List')/items?$select=Month,Title,Count")
       .then((response: Response) => {
         return response.json();
       });
