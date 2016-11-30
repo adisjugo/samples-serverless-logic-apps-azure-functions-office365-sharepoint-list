@@ -1,3 +1,10 @@
+# Locks
+*.lock.json
+
+# Certificates
+*.pfx
+*.cer
+
 # Logs
 logs
 *.log
