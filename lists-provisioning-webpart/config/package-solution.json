@@ -1,0 +1,10 @@
+{
+  "solution": {
+    "name": "Provision Lists",
+    "id": "af86325f-843b-47b5-8d13-e6a70d8e8228",
+    "version": "1.0.0.0"
+  },
+  "paths": {
+    "zippedPackage": "solution/provision-lists.spapp"
+  }
+}

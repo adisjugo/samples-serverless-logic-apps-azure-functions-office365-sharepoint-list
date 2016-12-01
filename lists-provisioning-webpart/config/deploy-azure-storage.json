@@ -1,0 +1,6 @@
+{
+  "workingDir": "./temp/deploy/",
+  "account": "office365apps",
+  "container": "provision-lists",
+  "accessKey": ""
+}

@@ -1,0 +1,7 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "libraryName": "provision-lists",
+    "libraryId": "af86325f-843b-47b5-8d13-e6a70d8e8228",
+    "framework": "react"
+  }
+}

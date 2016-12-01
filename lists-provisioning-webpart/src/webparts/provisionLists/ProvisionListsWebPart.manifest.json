@@ -1,0 +1,21 @@
+{
+  "$schema": "../../../node_modules/@microsoft/sp-module-interfaces/lib/manifestSchemas/jsonSchemas/clientSideComponentManifestSchema.json",
+
+  "id": "384bdf2e-c00a-461e-9e75-a0a73710c01a",
+  "alias": "ProvisionListsWebPart",
+  "componentType": "WebPart",
+  "version": "1.0.0",
+  "manifestVersion": 2,
+
+  "preconfiguredEntries": [{
+    "groupId": "384bdf2e-c00a-461e-9e75-a0a73710c01a",
+    "group": { "default": "Under Development" },
+    "title": { "default": "Provision Lists" },
+    "description": { "default": "Provision Lists description" },
+    "officeFabricIconFontName": "Page",
+    "properties": {
+      "provisionSourceListEndpointUrl": "https://office365apps.azurewebsites.net/api/ProvisionSourceList?code=R/HuaFDsPYdM/kJKZLcXvNdDvw01zh0OiyK9js1KWYdbKQC0zgPRlg==",
+      "provisionDestinationListEndpointUrl": "https://office365apps.azurewebsites.net/api/ProvisionDestinationList?code=4M7wm13OVyf5k4otRQmgSB5lpO/mTgSoWO16LyC59DaBHgmrycFARg=="
+    }
+  }]
+}
